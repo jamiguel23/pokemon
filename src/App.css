@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  color: #F3F2B3;
+  background-color: #364497;
 }
 
 .App-logo {
@@ -35,4 +37,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.TitleSection {
+
+  text-align: center;
+  color: #F3F2B3;
+  background-color: #364497;
+
 }
