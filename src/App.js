@@ -1,10 +1,11 @@
+import Header from './component/Header';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <div className='TitleSection'>
-        <h1> Pokemon Data</h1>
+        <Header />
       </div>
     </div>
   );
