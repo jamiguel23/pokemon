@@ -4,7 +4,7 @@ export default class Footer extends Component {
   render() {
     return (
       <footer>
-         <p> &copy; JM Miguel </p>
+         <p> &copy; JM Miguel 2022 </p>
       </footer>
     )
   }
